@@ -143,7 +143,7 @@ include 'koneksi.php';
                             </tr>
                             <tr>
                                 <td>2</td>
-                                <td class="fw-bold">Pemrograman Web</td>
+                                <td class="fw-bold">Bebas</td>
                                 <td><i class="fas fa-chalkboard-teacher me-2 text-muted"></i>Bu Rosida</td>
                             </tr>
                         </tbody>
